@@ -1,0 +1,14 @@
+.small-svg {
+    width: 150px; /* Set your desired width */
+    height: 150px; /* Set your desired height */
+    /* Or use max-width and height: auto for responsiveness */
+    /* max-width: 100%; */
+    /* height: auto; */
+}
+.container {
+    display: flex;
+    align-items: center; /* Vertically center items */
+}
+.svg {
+    margin-right: 10px; /* Space between SVG and text */
+}
